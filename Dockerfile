@@ -1,4 +1,4 @@
-FROM debian:sid
+FROM ubuntu:latest
 
 RUN set -ex\
     && apt update -y \
