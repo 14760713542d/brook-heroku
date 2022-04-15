@@ -17,7 +17,7 @@
         },
         "app_name": {
             "description": "The app name, used to generate a Brook link and a QR code (default: skip)",
-            "value": "usbrook2"
+            "value": "usbrook"
         }
     },
     "website": "https://github.com/14760713542d",
