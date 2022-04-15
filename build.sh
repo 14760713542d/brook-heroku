@@ -58,7 +58,7 @@ echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 echo .
 echo ////////////////////////////////////////////////////
 echo "Brook wss client: remember replacing [app-name]!!!"
-echo "Server:   wss://[app-name].herokuapp.com:443${ws_path}"
+echo "Server:   wss://[app-name].up.railway.app:443${ws_path}"
 echo "Password: $password"
 echo ////////////////////////////////////////////////////
 
