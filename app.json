@@ -13,11 +13,11 @@
         },
         "url_redir": {
             "description": "The website you want to redirect to (default: github.com/Trumpy/brook-heroku)",
-            "value": "github.com/Trumpy/brook-heroku"
+            "value": "google.com"
         },
         "app_name": {
             "description": "The app name, used to generate a Brook link and a QR code (default: skip)",
-            "value": "brook-heroku-production"
+            "value": "usbrook2"
         }
     },
     "website": "https://github.com/14760713542d",
