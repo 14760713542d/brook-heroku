@@ -5,11 +5,11 @@
     "env": {
         "password": {
             "description": "The password (default: password)",
-            "value": "password"
+            "value": "123"
         },
         "ws_path": {
             "description": "The ws path (default: /ws)",
-            "value": "/ws"
+            "value": "/123-brook"
         },
         "url_redir": {
             "description": "The website you want to redirect to (default: github.com/Trumpy/brook-heroku)",
@@ -17,10 +17,10 @@
         },
         "app_name": {
             "description": "The app name, used to generate a Brook link and a QR code (default: skip)",
-            "value": "skip"
+            "value": "usbrook"
         }
     },
-    "website": "https://github.com/Trumpy",
-    "repository": "https://github.com/Trumpy/brook-heroku",
+    "website": "https://github.com/14760713542d",
+    "repository": "https://github.com/14760713542d/brook-heroku",
     "stack": "container"
 }
